@@ -1,0 +1,143 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/robots/softbank/nao/protos/Nao.proto"
+
+WorldInfo {
+  title "Chatbt World for NAO"
+}
+Viewpoint {
+  orientation -0.23713824271188608 -0.02451313494884954 0.9711665974787737 3.341714377745267
+  position 1.5612500194216543 0.34352746412934126 1.3217834492311953
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+}
+Nao {
+  hidden position_0_0 1.4169934135827923e-16
+  hidden position2_0_0 -1.3168543182816034e-08
+  hidden position_0_1 1.0924158873845505e-06
+  hidden position2_0_1 1.685746942089005e-11
+  hidden position_0_2 1.0924159054948033e-06
+  hidden position2_0_2 -1.685521366808175e-11
+  hidden position_0_3 -1.3131287854718542e-06
+  hidden position_0_4 -1.3131287474047286e-06
+  hidden translation_11 0 0 0.1265
+  hidden rotation_11 0 0 1 0
+  hidden translation_18 0 -0.098 0.1
+  hidden rotation_18 8.428734709441469e-12 0.9999999998809364 1.5431366033353125e-05 1.0925711858167402e-06
+  hidden position_18_0 1.7438628597278482e-12
+  hidden translation_19 0.105 -0.015 0
+  hidden rotation_19 1 0 0 0
+  hidden position_19_0 6.057406937133874e-07
+  hidden translation_20 0 0 0
+  hidden rotation_20 0 0 1 6.056547591954962e-07
+  hidden position_20_0 -2.3548649464819407e-09
+  hidden translation_21 0.05595 0 0
+  hidden rotation_21 1 0 0 0
+  hidden position_21_0 -2.213405846559607e-11
+  hidden position_21_1 -2.2130963423014775e-11
+  hidden position_21_2 1.51529353490876e-10
+  hidden translation_22 0.069 -0.013 -0.005
+  hidden rotation_22 0 1 0 0.9600000000663905
+  hidden position_22_0 8.171587004375805e-11
+  hidden translation_23 0.014 0 0
+  hidden rotation_23 0 0.9999999999999999 0 0.9599999998365818
+  hidden position_23_0 3.7463049647179676e-11
+  hidden translation_24 0.014 0 0
+  hidden rotation_24 0 0.9999999999999999 0 0.9599999999250713
+  hidden translation_25 0.069 0.013 -0.005
+  hidden rotation_25 0 1 0 0.9600000000664016
+  hidden position_25_0 8.17121934843634e-11
+  hidden translation_26 0.014 0 0
+  hidden rotation_26 0 0.9999999999999999 0 0.9599999998365694
+  hidden position_26_0 3.747154419545468e-11
+  hidden translation_27 0.014 0 0
+  hidden rotation_27 0 1 0 0.959999999925067
+  hidden translation_28 0.049 0 -0.026
+  hidden rotation_28 0 1 0 0
+  hidden position_28_0 2.2254844148662517e-11
+  hidden translation_29 0.014 0 0
+  hidden rotation_29 0 -1 0 0.9599999999554762
+  hidden translation_30 0 0.098 0.1
+  hidden rotation_30 -8.427606833037723e-12 0.9999999998809683 -1.542930085628816e-05 1.0925711858167402e-06
+  hidden position_30_0 -1.7442301319961678e-12
+  hidden translation_31 0.105 0.015 0
+  hidden rotation_31 1 0 0 0
+  hidden position_31_0 -6.057406993775771e-07
+  hidden translation_32 0 0 0
+  hidden rotation_32 0 0 -1 6.056547591954962e-07
+  hidden position_32_0 2.3548682345639317e-09
+  hidden translation_33 0.05595 0 0
+  hidden rotation_33 1 0 0 0
+  hidden position_33_0 -2.2139165027565678e-11
+  hidden position_33_1 -2.2134383437184947e-11
+  hidden position_33_2 1.515217472468564e-10
+  hidden translation_34 0.069 -0.013 -0.005
+  hidden rotation_34 0 1 0 0.9600000000664078
+  hidden position_34_0 8.172329053551581e-11
+  hidden translation_35 0.014 0 0
+  hidden rotation_35 0 1 0 0.9599999998365535
+  hidden position_35_0 3.7467214911718085e-11
+  hidden translation_36 0.014 0 0
+  hidden rotation_36 0 1 0 0.9599999999250676
+  hidden translation_37 0.069 0.013 -0.005
+  hidden rotation_37 0 1 0 0.960000000066405
+  hidden position_37_0 8.172700116396725e-11
+  hidden translation_38 0.014 0 0
+  hidden rotation_38 0 1 0 0.9599999998365564
+  hidden position_38_0 3.746911475590874e-11
+  hidden translation_39 0.014 0 0
+  hidden rotation_39 0 1 0 0.959999999925057
+  hidden translation_40 0.049 0 -0.026
+  hidden rotation_40 0 1 0 0
+  hidden position_40_0 2.225578966253495e-11
+  hidden translation_41 0.014 0 0
+  hidden rotation_41 0 -1 0 0.9599999999554926
+  hidden translation_42 0 -0.05 -0.085
+  hidden rotation_42 0 -0.7071067811865475 -0.7071067811865475 1.312994406933253e-06
+  hidden position_42_0 1.6955335587383617e-06
+  hidden translation_43 0 0 0
+  hidden rotation_43 0.9999999999999999 0 0 1.695592387506348e-06
+  hidden position_43_0 -9.939152336713164e-07
+  hidden translation_44 0 0 0
+  hidden rotation_44 0 -1 0 9.938080311139369e-07
+  hidden position_44_0 -1.0045331162444882e-06
+  hidden translation_45 0 0 -0.1
+  hidden rotation_45 0 -1 0 1.004475328108841e-06
+  hidden position_45_0 -1.0314371983583909e-06
+  hidden translation_46 0 0 -0.1029
+  hidden rotation_46 0 -1 0 1.0315220534728153e-06
+  hidden position_46_0 -9.535401580709283e-10
+  hidden translation_47 0 0 0
+  hidden rotation_47 1 0 0 0
+  hidden translation_48 0.019999979792817674 -0.006999974691192359 -0.040919222005007715
+  hidden rotation_48 -5.3894816336424217e-08 -6.635913222065025e-11 0.9999999999999987 -3.1415853073871873
+  hidden translation_52 0 0.05 -0.085
+  hidden rotation_52 0 -0.7071067811865475 0.7071067811865475 1.312994406933253e-06
+  hidden position_52_0 -1.6955329606268142e-06
+  hidden translation_53 0 0 0
+  hidden rotation_53 -1 0 0 1.695592387506348e-06
+  hidden position_53_0 -9.93915082680985e-07
+  hidden translation_54 0 0 0
+  hidden rotation_54 0 -1 0 9.938080311139369e-07
+  hidden position_54_0 -1.0045329906895798e-06
+  hidden translation_55 0 0 -0.1
+  hidden rotation_55 0 -1 0 1.004475328108841e-06
+  hidden position_55_0 -1.0314370493534944e-06
+  hidden translation_56 0 0 -0.1029
+  hidden rotation_56 0 -1 0 1.0315220534728153e-06
+  hidden position_56_0 9.536661207099532e-10
+  hidden translation_57 0 0 0
+  hidden rotation_57 1 0 0 0
+  hidden translation_58 0.019999979792935798 0.006999974691431751 -0.04091922201554285
+  hidden rotation_58 -5.3895681350684884e-08 6.650417177031025e-11 0.9999999999999986 -3.141585306971983
+  translation 8.413833383656873e-05 -5.08382037186131e-10 0.33260169657202865
+  rotation 5.957751962407905e-06 0.9999999999822526 -4.892592226048106e-10 0.00025534225147967664
+  controller "audio_chat_controller"
+}
